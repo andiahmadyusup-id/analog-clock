@@ -1,1 +1,1 @@
-# Creating [Analog Clock](https://andiahmadyusup-id.github.io/randomcolor) with vanilla javascript.
+# Creating [Analog Clock](https://andiahmadyusup-id.github.io/analog-clock) with vanilla javascript.
